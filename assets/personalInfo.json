@@ -1,0 +1,34 @@
+{
+    "id": 9639316,
+    "nickname": "JOSHOJD",
+    "registration_date": "2011-08-21T17:43:56.000-04:00",
+    "country_id": "VE",
+    "address": {
+        "state": "VE-A",
+        "city": "Mun. Sucre (este)"
+    },
+    "user_type": "normal",
+    "tags": ["normal"],
+    "logo": null,
+    "points": 2,
+    "site_id": "MLV",
+    "permalink": "http://perfil.mercadolibre.com.ve/JOSHOJD",
+    "seller_reputation": {
+        "level_id": null,
+        "power_seller_status": null,
+        "transactions": {
+            "period": "historic",
+            "total": 0,
+            "completed": 0,
+            "canceled": 0,
+            "ratings": {
+                "positive": 0,
+                "negative": 0,
+                "neutral": 0
+            }
+        }
+    },
+    "status": {
+        "site_status": "active"
+    }
+}

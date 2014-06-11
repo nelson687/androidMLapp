@@ -1,0 +1,3152 @@
+{
+    "site_id": "MLA",
+    "seller": {
+        "id": 42453760,
+        "seller_reputation": {
+            "power_seller_status": "platinum"
+        },
+        "real_estate_agency": false,
+        "car_dealer": false
+    },
+    "paging": {
+        "total": 145,
+        "offset": 0,
+        "limit": 50
+    },
+    "results": [{
+        "id": "MLA498003818",
+        "site_id": "MLA",
+        "title": "Placa Fenolico Grandis Industrial 18mm 1,22 X 2,44 Nautico",
+        "subtitle": "1 Cara Masillada Y Lijada - Obras Encofrados Losas Tabiques",
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 370,
+        "currency_id": "ARS",
+        "available_quantity": 747,
+        "sold_quantity": 346,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold",
+        "stop_time": "2014-07-05T02:14:56.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-498003818-placa-fenolico-grandis-industrial-18mm-122-x-244-nautico-_JM",
+        "thumbnail": "http://mla-s2-p.mlstatic.com/4668-MLA4924158966_082013-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 47.17,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA503909924",
+        "site_id": "MLA",
+        "title": "Puerta Placa D Pino 73cm X 2,05mts Marco Madera D Alamo 10cm",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 386,
+        "currency_id": "ARS",
+        "available_quantity": 673,
+        "sold_quantity": 204,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold_premium",
+        "stop_time": "2014-06-19T22:45:41.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-503909924-puerta-placa-d-pino-73cm-x-205mts-marco-madera-d-alamo-10cm-_JM",
+        "thumbnail": "http://mla-s2-p.mlstatic.com/13673-MLA53352998_8084-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 49.21,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA321156"
+    }, {
+        "id": "MLA506761538",
+        "site_id": "MLA",
+        "title": "Placa Melamina 18mm 1,83 X 2,82 Wengue Cedro Cerejeira Haya",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 548,
+        "currency_id": "ARS",
+        "available_quantity": 723,
+        "sold_quantity": 112,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold",
+        "stop_time": "2014-07-11T03:38:27.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-506761538-placa-melamina-18mm-183-x-282-wengue-cedro-cerejeira-haya-_JM",
+        "thumbnail": "http://mla-s2-p.mlstatic.com/4097-MLA119985291_1071-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 69.87,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA10088"
+    }, {
+        "id": "MLA508143202",
+        "site_id": "MLA",
+        "title": "Piso De Madera - Entablonado Eucaliptus Grandis 1  X 4  X 30",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 136,
+        "currency_id": "ARS",
+        "available_quantity": 750,
+        "sold_quantity": 423,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold",
+        "stop_time": "2014-07-20T19:51:29.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-508143202-piso-de-madera-entablonado-eucaliptus-grandis-1-x-4-x-30-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/4430-MLA3663703178_012013-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 17.34,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA321146"
+    }, {
+        "id": "MLA507839895",
+        "site_id": "MLA",
+        "title": "Placa Melamina Blanca 18mm 1,83 X 2,82m 1racal- Iva Incluido",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 484,
+        "currency_id": "ARS",
+        "available_quantity": 747,
+        "sold_quantity": 92,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold",
+        "stop_time": "2014-07-18T21:44:11.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-507839895-placa-melamina-blanca-18mm-183-x-282m-1racal-iva-incluido-_JM",
+        "thumbnail": "http://mla-s2-p.mlstatic.com/4066-MLA119881076_2632-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 61.71,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA10088"
+    }, {
+        "id": "MLA508624301",
+        "site_id": "MLA",
+        "title": "Placa Osb Fenolico 9,5mm 1,22 X 2,44 Mts, Casi 10mm",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 225,
+        "currency_id": "ARS",
+        "available_quantity": 748,
+        "sold_quantity": 167,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold",
+        "stop_time": "2014-07-24T22:42:34.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-508624301-placa-osb-fenolico-95mm-122-x-244-mts-casi-10mm-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/6596-MLA5082967740_092013-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 28.69,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA506757925",
+        "site_id": "MLA",
+        "title": "Aislante Aluminizado Para Techos, Proterm, Rollo Por 30 M2",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 337,
+        "currency_id": "ARS",
+        "available_quantity": 727,
+        "sold_quantity": 71,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold",
+        "stop_time": "2014-07-11T03:12:06.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-506757925-aislante-aluminizado-para-techos-proterm-rollo-por-30-m2-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/6258-MLA52244499_8246-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 42.96,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA48883"
+    }, {
+        "id": "MLA506761148",
+        "site_id": "MLA",
+        "title": "Tirante De Madera Pino Cepillado 2  X 6  X 4,88 Mts Techos",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 128.87,
+        "currency_id": "ARS",
+        "available_quantity": 750,
+        "sold_quantity": 80,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold",
+        "stop_time": "2014-07-11T03:35:44.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-506761148-tirante-de-madera-pino-cepillado-2-x-6-x-488-mts-techos-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/13647-MLA3064850318_082012-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 16.43,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA48871"
+    }, {
+        "id": "MLA506761100",
+        "site_id": "MLA",
+        "title": "Tirante De Madera Pino Cepillado 2 X 6 X 4,27 Mts Techos",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 104.09,
+        "currency_id": "ARS",
+        "available_quantity": 749,
+        "sold_quantity": 57,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold",
+        "stop_time": "2014-07-11T03:35:09.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-506761100-tirante-de-madera-pino-cepillado-2-x-6-x-427-mts-techos-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/13647-MLA3064850318_082012-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 13.27,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA48871"
+    }, {
+        "id": "MLA498653329",
+        "site_id": "MLA",
+        "title": "Placa De Yeso Knauf 9,5mm 1,20 X 2,40 Mts Similar A Durlock",
+        "subtitle": "Entrega Sin Cargo En: Avellaneda Lanus Quilmes Lomas Zamora",
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 73.5,
+        "currency_id": "ARS",
+        "available_quantity": 699,
+        "sold_quantity": 51,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold",
+        "stop_time": "2014-07-11T03:26:02.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-498653329-placa-de-yeso-knauf-95mm-120-x-240-mts-similar-a-durlock-_JM",
+        "thumbnail": "http://mla-s2-p.mlstatic.com/461-MLA4687574888_072013-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 9.37,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA502329597",
+        "site_id": "MLA",
+        "title": "Deck De Madera Eucaliptus Grandis Country 1  X 4  1racal. M2",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 130,
+        "currency_id": "ARS",
+        "available_quantity": 750,
+        "sold_quantity": 22,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold",
+        "stop_time": "2014-06-06T19:15:07.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-502329597-deck-de-madera-eucaliptus-grandis-country-1-x-4-1racal-m2-_JM",
+        "thumbnail": "http://mla-s2-p.mlstatic.com/6250-MLA64632175_3586-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 16.57,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA321145"
+    }, {
+        "id": "MLA508627059",
+        "site_id": "MLA",
+        "title": "Placa Osb Fenolico 11,1mm 1,22 X 2,44 Mts, Casi 12mm",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 265,
+        "currency_id": "ARS",
+        "available_quantity": 749,
+        "sold_quantity": 10,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold",
+        "stop_time": "2014-07-24T22:57:57.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-508627059-placa-osb-fenolico-111mm-122-x-244-mts-casi-12mm-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/6596-MLA5082967740_092013-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 33.79,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA506758521",
+        "site_id": "MLA",
+        "title": "Tablas Para Encofrado, Saligna 1 X M2, Tirantes, Puntales",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 70.25,
+        "currency_id": "ARS",
+        "available_quantity": 750,
+        "sold_quantity": 3,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold",
+        "stop_time": "2014-07-11T03:18:26.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-506758521-tablas-para-encofrado-saligna-1-x-m2-tirantes-puntales-_JM",
+        "thumbnail": "http://mla-s2-p.mlstatic.com/4021-MLA106313766_8548-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 8.96,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA1503"
+    }, {
+        "id": "MLA509710283",
+        "site_id": "MLA",
+        "title": "Fenolico Film Plastificado 2 Caras Negro 18mm 1,22 X 2,44",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 575,
+        "currency_id": "ARS",
+        "available_quantity": 670,
+        "sold_quantity": 80,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-08-01T18:24:11.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-509710283-fenolico-film-plastificado-2-caras-negro-18mm-122-x-244-_JM",
+        "thumbnail": "http://mla-s2-p.mlstatic.com/5747-MLA4991643463_092013-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 73.31,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA508109472",
+        "site_id": "MLA",
+        "title": "Placa Fenolico Pino 10mm 1,22 X 2,44 Mts Cal: 1 Cara Primera",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 240,
+        "currency_id": "ARS",
+        "available_quantity": 723,
+        "sold_quantity": 60,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-07-20T16:03:13.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-508109472-placa-fenolico-pino-10mm-122-x-244-mts-cal-1-cara-primera-_JM",
+        "thumbnail": "http://mla-s2-p.mlstatic.com/5269-MLA4277015155_052013-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 30.6,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA507840076",
+        "site_id": "MLA",
+        "title": "Placa Melamina Blanca Sobre Mdf 18mm 1,83 X 2,60 1ra Calidad",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 702,
+        "currency_id": "ARS",
+        "available_quantity": 736,
+        "sold_quantity": 16,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-07-18T21:44:42.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-507840076-placa-melamina-blanca-sobre-mdf-18mm-183-x-260-1ra-calidad-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/4197-MLA2826225481_062012-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 89.5,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA10088"
+    }, {
+        "id": "MLA506757419",
+        "site_id": "MLA",
+        "title": "Escalon De Madera Dura Anchico, 3 Cm X 24,5 Cm X 80 Cm,",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 170.5,
+        "currency_id": "ARS",
+        "available_quantity": 705,
+        "sold_quantity": 47,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-07-11T03:08:19.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-506757419-escalon-de-madera-dura-anchico-3-cm-x-245-cm-x-80-cm-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/13698-MLA3367837807_112012-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 21.74,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA506757273",
+        "site_id": "MLA",
+        "title": "Adhesivo Vinilico Para Madera, Cola Potente X 22 Kg",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 345,
+        "currency_id": "ARS",
+        "available_quantity": 746,
+        "sold_quantity": 30,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-07-11T03:06:11.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-506757273-adhesivo-vinilico-para-madera-cola-potente-x-22-kg-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/4241-MLA2903622854_072012-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 43.98,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA506758565",
+        "site_id": "MLA",
+        "title": "Machimbre De Pino, Espesor 1 , 1ra Calidad, Seco En Horno",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 91,
+        "currency_id": "ARS",
+        "available_quantity": 725,
+        "sold_quantity": 80,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-07-11T03:19:01.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-506758565-machimbre-de-pino-espesor-1-1ra-calidad-seco-en-horno-_JM",
+        "thumbnail": "http://mla-s2-p.mlstatic.com/4109-MLA2857631762_062012-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 11.6,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA321144"
+    }, {
+        "id": "MLA503910010",
+        "site_id": "MLA",
+        "title": "Placa Mdf Fibrofacil 9mm 1,83 X 2,60 Mt  - Iva Incluido",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 233,
+        "currency_id": "ARS",
+        "available_quantity": 747,
+        "sold_quantity": 26,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-06-19T22:46:43.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-503910010-placa-mdf-fibrofacil-9mm-183-x-260-mt-iva-incluido-_JM",
+        "thumbnail": "http://mla-s2-p.mlstatic.com/13681-MLA3272138543_102012-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 29.71,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA503940747",
+        "site_id": "MLA",
+        "title": "Placa Melamina Color Blanco 18mm 1,83 X 2,82 -1ra Calidad",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 484,
+        "currency_id": "ARS",
+        "available_quantity": 741,
+        "sold_quantity": 11,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-06-20T03:21:52.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-503940747-placa-melamina-color-blanco-18mm-183-x-282-1ra-calidad-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/14097-MLA20083025981_042014-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 61.71,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA508138784",
+        "site_id": "MLA",
+        "title": "Placa Fenolico Pino 12mm 1,22 X 2,44 Mts Cal: 1 Cara Primera",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 302,
+        "currency_id": "ARS",
+        "available_quantity": 750,
+        "sold_quantity": 17,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-07-20T19:26:28.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-508138784-placa-fenolico-pino-12mm-122-x-244-mts-cal-1-cara-primera-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/5254-MLA4277014669_052013-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 38.5,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA506760545",
+        "site_id": "MLA",
+        "title": "Tirante De Madera Pino Cepillado 2  X 5  X 4,27 Mts Techos",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 86.7,
+        "currency_id": "ARS",
+        "available_quantity": 747,
+        "sold_quantity": 51,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-07-11T03:32:10.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-506760545-tirante-de-madera-pino-cepillado-2-x-5-x-427-mts-techos-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/13647-MLA3064850318_082012-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 11.05,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA48871"
+    }, {
+        "id": "MLA508141879",
+        "site_id": "MLA",
+        "title": "Placa De Yeso Knauf 12,5mm 1,20 X 2,40 Mts Similar A Durlock",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 74.5,
+        "currency_id": "ARS",
+        "available_quantity": 730,
+        "sold_quantity": 38,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-07-20T19:43:15.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-508141879-placa-de-yeso-knauf-125mm-120-x-240-mts-similar-a-durlock-_JM",
+        "thumbnail": "http://mla-s2-p.mlstatic.com/461-MLA4687574888_072013-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 9.5,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA509712641",
+        "site_id": "MLA",
+        "title": "Tirante Puntal Pino Elliotis 3  X 3  X 3,66 Mts Iva Incluido",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 53.52,
+        "currency_id": "ARS",
+        "available_quantity": 750,
+        "sold_quantity": 67,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-08-01T18:37:29.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-509712641-tirante-puntal-pino-elliotis-3-x-3-x-366-mts-iva-incluido-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/4281-MLA3458272913_112012-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 6.82,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA508138984",
+        "site_id": "MLA",
+        "title": "Placa De Terciado De Pino 3mm 1,60 X 2,10 Mts 1ra Calidad",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 118,
+        "currency_id": "ARS",
+        "available_quantity": 750,
+        "sold_quantity": 27,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-07-20T19:27:31.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-508138984-placa-de-terciado-de-pino-3mm-160-x-210-mts-1ra-calidad-_JM",
+        "thumbnail": "http://mla-s2-p.mlstatic.com/5356-MLA4309540853_052013-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 15.04,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA503941513",
+        "site_id": "MLA",
+        "title": "Placa Melamina Roble Blanco - Rovere Chiaro 18mm 1,83 X 2,82",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 548,
+        "currency_id": "ARS",
+        "available_quantity": 750,
+        "sold_quantity": 5,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-06-20T11:46:38.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-503941513-placa-melamina-roble-blanco-rovere-chiaro-18mm-183-x-282-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/14035-MLA20083029208_042014-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 69.87,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA508138747",
+        "site_id": "MLA",
+        "title": "Placa De Guillermina Tempora, Mdf, 18mm 1,83 X 3,66 Mts",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 503,
+        "currency_id": "ARS",
+        "available_quantity": 750,
+        "sold_quantity": 4,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-07-20T19:26:06.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-508138747-placa-de-guillermina-tempora-mdf-18mm-183-x-366-mts-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/4929-MLA4003668814_032013-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 64.13,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA506757321",
+        "site_id": "MLA",
+        "title": "Adhesivo Vinilico Para Madera, Cola Potente, Tambor X 200 Kg",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 2818,
+        "currency_id": "ARS",
+        "available_quantity": 750,
+        "sold_quantity": 1,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-07-11T03:06:38.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-506757321-adhesivo-vinilico-para-madera-cola-potente-tambor-x-200-kg-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/4241-MLA2903622854_072012-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 359.27,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA506767298",
+        "site_id": "MLA",
+        "title": "Placa Melamina Negra - Nero 348 18mm 1,83 X 2,82 Mts",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 548,
+        "currency_id": "ARS",
+        "available_quantity": 748,
+        "sold_quantity": 2,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-07-11T04:46:43.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-506767298-placa-melamina-negra-nero-348-18mm-183-x-282-mts-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/15054-MLA20094264789_052014-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 69.87,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA506760433",
+        "site_id": "MLA",
+        "title": "Tirante De Madera Pino Cepillado 2  X 5  X 3,66 Mts Techos",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 74.37,
+        "currency_id": "ARS",
+        "available_quantity": 739,
+        "sold_quantity": 19,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-07-11T03:31:06.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-506760433-tirante-de-madera-pino-cepillado-2-x-5-x-366-mts-techos-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/13647-MLA3064850318_082012-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 9.48,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA48871"
+    }, {
+        "id": "MLA503909976",
+        "site_id": "MLA",
+        "title": "Aislante Aluminizado Para Techos, Proterm, Rollo Por 15 M2",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 181,
+        "currency_id": "ARS",
+        "available_quantity": 748,
+        "sold_quantity": 5,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-06-19T22:46:13.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-503909976-aislante-aluminizado-para-techos-proterm-rollo-por-15-m2-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/6258-MLA52244499_8246-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 23.08,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA48883"
+    }, {
+        "id": "MLA503910113",
+        "site_id": "MLA",
+        "title": "Placa Mdf Fibrofacil 15mm 1,83 X 2,60 Mt  - Iva Incluido",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 373,
+        "currency_id": "ARS",
+        "available_quantity": 749,
+        "sold_quantity": 2,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-06-19T22:47:27.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-503910113-placa-mdf-fibrofacil-15mm-183-x-260-mt-iva-incluido-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/13558-MLA3272139947_102012-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 47.55,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA506757604",
+        "site_id": "MLA",
+        "title": "Escalon De Madera Dura Anchico, 3 Cm X 29,5 Cm X 1,00 Mts",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 281.3,
+        "currency_id": "ARS",
+        "available_quantity": 750,
+        "sold_quantity": 3,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-07-11T03:08:56.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-506757604-escalon-de-madera-dura-anchico-3-cm-x-295-cm-x-100-mts-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/13698-MLA3367837807_112012-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 35.86,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA509710463",
+        "site_id": "MLA",
+        "title": "Puntal Metalico Telescopico / Obra Loza - De 2,10 A 3,80 Mts",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 260,
+        "currency_id": "ARS",
+        "available_quantity": 750,
+        "sold_quantity": 4,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-08-01T18:24:52.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-509710463-puntal-metalico-telescopico-obra-loza-de-210-a-380-mts-_JM",
+        "thumbnail": "http://mla-s2-p.mlstatic.com/4295-MLA3466977445_112012-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 33.15,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA509716393",
+        "site_id": "MLA",
+        "title": "Placa Aglomerado Sadepan 18mm 1,83 X 2,82 Mt  - Iva Incluido",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 266,
+        "currency_id": "ARS",
+        "available_quantity": 750,
+        "sold_quantity": 5,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-08-01T18:57:12.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-509716393-placa-aglomerado-sadepan-18mm-183-x-282-mt-iva-incluido-_JM",
+        "thumbnail": "http://mla-s2-p.mlstatic.com/13579-MLA3214269654_102012-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 33.91,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA505012433",
+        "site_id": "MLA",
+        "title": "Tirante De Madera Pino Parana Cepillado 2  X 6  X 4,27 Mts",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 243,
+        "currency_id": "ARS",
+        "available_quantity": 750,
+        "sold_quantity": 2,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-06-28T02:15:46.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-505012433-tirante-de-madera-pino-parana-cepillado-2-x-6-x-427-mts-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/4317-MLA3541155409_122012-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 30.98,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA508137694",
+        "site_id": "MLA",
+        "title": "Placa De Guillermina Tempora, Mdf, 12mm 1,83 X 3,66 Mts",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 353,
+        "currency_id": "ARS",
+        "available_quantity": 750,
+        "sold_quantity": 3,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-07-20T19:19:50.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-508137694-placa-de-guillermina-tempora-mdf-12mm-183-x-366-mts-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/4958-MLA4003635193_032013-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 45,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA505004604",
+        "site_id": "MLA",
+        "title": "Tirante De Madera Pino Parana Cepillado 2  X 6  X 5,50 Mts",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 333.19,
+        "currency_id": "ARS",
+        "available_quantity": 750,
+        "sold_quantity": 1,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-06-28T00:52:00.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-505004604-tirante-de-madera-pino-parana-cepillado-2-x-6-x-550-mts-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/4317-MLA3541155409_122012-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 42.48,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA508138652",
+        "site_id": "MLA",
+        "title": "Placa De Guillermina Tempora, Mdf, 15mm 1,83 X 3,66 Mts",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 422,
+        "currency_id": "ARS",
+        "available_quantity": 749,
+        "sold_quantity": 1,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-07-20T19:25:28.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-508138652-placa-de-guillermina-tempora-mdf-15mm-183-x-366-mts-_JM",
+        "thumbnail": "http://mla-s2-p.mlstatic.com/4954-MLA4003642365_032013-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 53.8,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA506760861",
+        "site_id": "MLA",
+        "title": "Tirante De Madera Pino Cepillado 2  X 6  X 3,05 Mts Techos",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 74.37,
+        "currency_id": "ARS",
+        "available_quantity": 746,
+        "sold_quantity": 5,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-07-11T03:34:05.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-506760861-tirante-de-madera-pino-cepillado-2-x-6-x-305-mts-techos-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/13647-MLA3064850318_082012-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 9.48,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA48871"
+    }, {
+        "id": "MLA509716192",
+        "site_id": "MLA",
+        "title": "Piso De Madera - Entablonado Euca Grandis 3/4 X 4 X 300mm",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 110,
+        "currency_id": "ARS",
+        "available_quantity": 750,
+        "sold_quantity": 4,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-08-01T18:56:21.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-509716192-piso-de-madera-entablonado-euca-grandis-34-x-4-x-300mm-_JM",
+        "thumbnail": "http://mla-s2-p.mlstatic.com/13660-MLA2980729592_082012-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 14.02,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA321146"
+    }, {
+        "id": "MLA506759882",
+        "site_id": "MLA",
+        "title": "Tirante De Madera Pino Cepillado 2  X 4  X 3,66 Mts Techos",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 59.5,
+        "currency_id": "ARS",
+        "available_quantity": 750,
+        "sold_quantity": 2,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-07-11T03:27:26.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-506759882-tirante-de-madera-pino-cepillado-2-x-4-x-366-mts-techos-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/13647-MLA3064850318_082012-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 7.59,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA48871"
+    }, {
+        "id": "MLA504254989",
+        "site_id": "MLA",
+        "title": "Placa Melamina Base Mdf Color Rojo 18mm 1,83 X 2,75 Cal: 1ra",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 767,
+        "currency_id": "ARS",
+        "available_quantity": 750,
+        "sold_quantity": 0,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-06-22T02:08:11.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-504254989-placa-melamina-base-mdf-color-rojo-18mm-183-x-275-cal-1ra-_JM",
+        "thumbnail": "http://mla-s2-p.mlstatic.com/14132-MLA20084200300_042014-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 97.79,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA506761008",
+        "site_id": "MLA",
+        "title": "Tirante De Madera Pino Cepillado 2  X 6  X 3,66 Mts Techos",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 89.23,
+        "currency_id": "ARS",
+        "available_quantity": 750,
+        "sold_quantity": 0,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-07-11T03:34:34.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-506761008-tirante-de-madera-pino-cepillado-2-x-6-x-366-mts-techos-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/13647-MLA3064850318_082012-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 11.38,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA48871"
+    }, {
+        "id": "MLA508635780",
+        "site_id": "MLA",
+        "title": "Escalon Madera Dura Lapacho 3cm X 24,5cm X 80cm Extra Dureza",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 289.1,
+        "currency_id": "ARS",
+        "available_quantity": 750,
+        "sold_quantity": 0,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-07-24T23:57:17.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-508635780-escalon-madera-dura-lapacho-3cm-x-245cm-x-80cm-extra-dureza-_JM",
+        "thumbnail": "http://mla-s2-p.mlstatic.com/15413-MLA20101981587_052014-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 36.86,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA503942098",
+        "site_id": "MLA",
+        "title": "Placa Melamina Azul 18mm 1,83 X 2,82 Ideal Mesa Ping Pong",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 548,
+        "currency_id": "ARS",
+        "available_quantity": 750,
+        "sold_quantity": 0,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-06-20T03:33:50.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-503942098-placa-melamina-azul-18mm-183-x-282-ideal-mesa-ping-pong-_JM",
+        "thumbnail": "http://mla-s2-p.mlstatic.com/14071-MLA20083031163_042014-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 69.87,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA505002883",
+        "site_id": "MLA",
+        "title": "Tirante De Madera Pino Parana Cepillado 2  X 5  X 3,66 Mts",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 171.59,
+        "currency_id": "ARS",
+        "available_quantity": 749,
+        "sold_quantity": 1,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-06-28T00:35:46.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-505002883-tirante-de-madera-pino-parana-cepillado-2-x-5-x-366-mts-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/4317-MLA3541155409_122012-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 21.88,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }, {
+        "id": "MLA509013868",
+        "site_id": "MLA",
+        "title": "Deck De Madera De Pino Impregnado 1y1/2  X 4  - Precio X M2",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 208,
+        "currency_id": "ARS",
+        "available_quantity": 750,
+        "sold_quantity": 0,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-07-27T14:22:08.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-509013868-deck-de-madera-de-pino-impregnado-1y12-x-4-precio-x-m2-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/9007-MLA20010848970_112013-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 26.52,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA321145"
+    }, {
+        "id": "MLA506768243",
+        "site_id": "MLA",
+        "title": "Placa Melamina Marfil, Beige - Panna499 18mm 1,83 X 2,82 Mts",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 482,
+        "currency_id": "ARS",
+        "available_quantity": 750,
+        "sold_quantity": 0,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "silver",
+        "stop_time": "2014-07-11T05:16:07.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-506768243-placa-melamina-marfil-beige-panna499-18mm-183-x-282-mts-_JM",
+        "thumbnail": "http://mla-s2-p.mlstatic.com/15017-MLA20094270383_052014-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 61.45,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA30225"
+    }],
+    "secondary_results": [],
+    "related_results": [],
+    "sort": {
+        "id": "relevance",
+        "name": "More relevant"
+    },
+    "available_sorts": [{
+        "id": "price_asc",
+        "name": "Lower price"
+    }, {
+        "id": "price_desc",
+        "name": "Higher price"
+    }],
+    "filters": [],
+    "available_filters": [{
+        "id": "category",
+        "name": "Categories",
+        "type": "text",
+        "values": [{
+            "id": "MLA1499",
+            "name": "Industrias y Oficinas",
+            "results": 142
+        }, {
+            "id": "MLA1574",
+            "name": "Hogar, Muebles y Jardín",
+            "results": 3
+        }]
+    }, {
+        "id": "state",
+        "name": "Location",
+        "type": "text",
+        "values": [{
+            "id": "TUxBUEdSQXJlMDNm",
+            "name": "Bs.As. G.B.A. Sur",
+            "results": 145
+        }]
+    }, {
+        "id": "price",
+        "name": "Price range",
+        "type": "range",
+        "values": [{
+            "id": "*-150.0",
+            "name": "Up to $150",
+            "results": 46
+        }, {
+            "id": "150.0-400.0",
+            "name": "$150 to $400",
+            "results": 48
+        }, {
+            "id": "400.0-*",
+            "name": "More than $400",
+            "results": 51
+        }]
+    }, {
+        "id": "accepts_mercadopago",
+        "name": "MercadoPago filter",
+        "type": "boolean",
+        "values": [{
+            "id": "yes",
+            "name": "With MercadoPago",
+            "results": 145
+        }]
+    }, {
+        "id": "installments",
+        "name": "Installments filter",
+        "type": "boolean",
+        "values": [{
+            "id": "yes",
+            "name": "Installments",
+            "results": 145
+        }]
+    }, {
+        "id": "condition",
+        "name": "Condition filter",
+        "type": "text",
+        "values": [{
+            "id": "new",
+            "name": "New",
+            "results": 145
+        }]
+    }, {
+        "id": "power_seller",
+        "name": "Seller quality filter",
+        "type": "boolean",
+        "values": [{
+            "id": "yes",
+            "name": "Best sellers",
+            "results": 145
+        }]
+    }, {
+        "id": "buying_mode",
+        "name": "Buying mode filter",
+        "type": "text",
+        "values": [{
+            "id": "buy_it_now",
+            "name": "Buy it now",
+            "results": 145
+        }]
+    }, {
+        "id": "since",
+        "name": "Auction start date filter",
+        "type": "text",
+        "values": [{
+            "id": "today",
+            "name": "Starting today",
+            "results": 2
+        }]
+    }, {
+        "id": "until",
+        "name": "Auction stop filter",
+        "type": "text",
+        "values": [{
+            "id": "today",
+            "name": "Ending today",
+            "results": 1
+        }]
+    }, {
+        "id": "has_video",
+        "name": "Video publications filter",
+        "type": "boolean",
+        "values": [{
+            "id": "yes",
+            "name": "Publications with video",
+            "results": 1
+        }]
+    }, {
+        "id": "has_pictures",
+        "name": "Items with images filter",
+        "type": "boolean",
+        "values": [{
+            "id": "yes",
+            "name": "With pictures",
+            "results": 145
+        }]
+    }]
+}

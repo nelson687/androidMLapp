@@ -1,5 +1,8 @@
 package com.example.nelsonmerc;
 
+import java.io.IOException;
+import java.io.InputStream;
+
 import org.apache.http.Header;
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -115,4 +118,33 @@ public class MainActivity extends ActionBarActivity {
 		meli.get("/users/me.json", params, responseHandler);
 	}
 	
+	public void testGetFile(View view){
+        try {
+            JSONObject response = new JSONObject(getJsonFromFile());
+            TextView result = (TextView) findViewById(R.id.textView1); 
+            result.setText("User name: " + response.get("nickname").toString());
+        } catch (JSONException e) {
+                    String hola = "";
+          }
+    }
+	
+	public String getJsonFromFile(){
+	    String jsonString = "";
+	    try {
+            InputStream is = getAssets().open("personalInfo.json");
+            int size = is.available();
+            byte[] buffer = new byte[size];
+            is.read(buffer);
+            is.close();
+            jsonString = new String(buffer, "UTF-8");
+        } catch (IOException e) {
+            String hola = "";
+        }
+	    return jsonString;
+	}
+	
+	public void start(View view){
+	    Intent intent = new Intent(this, SelectActionActivity.class);
+	    startActivity(intent);
+	}
 }

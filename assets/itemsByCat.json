@@ -1,0 +1,606 @@
+{
+    "site_id": "MLA",
+    "paging": {
+        "total": 102161,
+        "offset": 0,
+        "limit": 5
+    },
+    "results": [{
+        "id": "MLA506761538",
+        "site_id": "MLA",
+        "title": "Placa Melamina 18mm 1,83 X 2,82 Wengue Cedro Cerejeira Haya",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 548,
+        "currency_id": "ARS",
+        "available_quantity": 723,
+        "sold_quantity": 112,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold",
+        "stop_time": "2014-07-11T03:38:27.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-506761538-placa-melamina-18mm-183-x-282-wengue-cedro-cerejeira-haya-_JM",
+        "thumbnail": "http://mla-s2-p.mlstatic.com/4097-MLA119985291_1071-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 69.87,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA10088"
+    }, {
+        "id": "MLA506948173",
+        "site_id": "MLA",
+        "title": "Set Jardin De Infantes: Mantel, Toalla Y Servilleta",
+        "subtitle": null,
+        "seller": {
+            "id": 113537694,
+            "power_seller_status": null,
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 150,
+        "currency_id": "ARS",
+        "available_quantity": 5,
+        "sold_quantity": 28,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold",
+        "stop_time": "2014-07-12T12:21:43.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-506948173-set-jardin-de-infantes-mantel-toalla-y-servilleta-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/11830-MLA20050432686_022014-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 19.12,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-C",
+            "state_name": "Capital Federal",
+            "city_id": "TUxBQlNBTjgxMzNa",
+            "city_name": "San Telmo"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "me2"
+        },
+        "seller_address": {
+            "id": 100523821,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-C",
+                "name": "Capital Federal"
+            },
+            "city": {
+                "id": "TUxBQlNBTjgxMzNa",
+                "name": "San Telmo"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA95507"
+    }, {
+        "id": "MLA507839895",
+        "site_id": "MLA",
+        "title": "Placa Melamina Blanca 18mm 1,83 X 2,82m 1racal- Iva Incluido",
+        "subtitle": null,
+        "seller": {
+            "id": 42453760,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 484,
+        "currency_id": "ARS",
+        "available_quantity": 747,
+        "sold_quantity": 92,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold",
+        "stop_time": "2014-07-18T21:44:11.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-507839895-placa-melamina-blanca-18mm-183-x-282m-1racal-iva-incluido-_JM",
+        "thumbnail": "http://mla-s2-p.mlstatic.com/4066-MLA119881076_2632-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 61.71,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "Lanús Este"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "not_specified"
+        },
+        "seller_address": {
+            "id": 82564463,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "Lanús Este"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA10088"
+    }, {
+        "id": "MLA502414357",
+        "site_id": "MLA",
+        "title": "Calculadora Con Impresor Cifra Pr-1110 Adaptador Incluido",
+        "subtitle": null,
+        "seller": {
+            "id": 132822347,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 599.99,
+        "currency_id": "ARS",
+        "available_quantity": 90,
+        "sold_quantity": 45,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold",
+        "stop_time": "2014-06-07T12:42:21.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-502414357-calculadora-con-impresor-cifra-pr-1110-adaptador-incluido-_JM",
+        "thumbnail": "http://mla-s2-p.mlstatic.com/13101-MLA20072875217_042014-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 76.49,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-C",
+            "state_name": "Capital Federal",
+            "city_id": "",
+            "city_name": "C.A.B.A"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "me2"
+        },
+        "seller_address": {
+            "id": 109127907,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-C",
+                "name": "Capital Federal"
+            },
+            "city": {
+                "id": "",
+                "name": "C.A.B.A"
+            },
+            "latitude": -34.58,
+            "longitude": -58.44
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA10575"
+    }, {
+        "id": "MLA502818573",
+        "site_id": "MLA",
+        "title": "Calculadora Olivetti Logos 802 - Nueva,envíos,factura A-b",
+        "subtitle": null,
+        "seller": {
+            "id": 44994779,
+            "power_seller_status": "platinum",
+            "car_dealer": false,
+            "real_estate_agency": false
+        },
+        "price": 1189.99,
+        "currency_id": "ARS",
+        "available_quantity": 15,
+        "sold_quantity": 15,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold",
+        "stop_time": "2014-06-10T12:05:47.000Z",
+        "condition": "new",
+        "permalink": "http://articulo.mercadolibre.com.ar/MLA-502818573-calculadora-olivetti-logos-802-nuevaenviosfactura-a-b-_JM",
+        "thumbnail": "http://mla-s1-p.mlstatic.com/8284-MLA20001877963_112013-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 151.71,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "",
+            "city_name": "LOMAS DE ZAMORA"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "me2"
+        },
+        "seller_address": {
+            "id": 122797428,
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "",
+                "name": "LOMAS DE ZAMORA"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [],
+        "original_price": null,
+        "category_id": "MLA10575"
+    }],
+    "secondary_results": [],
+    "related_results": [],
+    "sort": {
+        "id": "relevance",
+        "name": "More relevant"
+    },
+    "available_sorts": [{
+        "id": "price_asc",
+        "name": "Lower price"
+    }, {
+        "id": "price_desc",
+        "name": "Higher price"
+    }],
+    "filters": [{
+        "id": "category",
+        "name": "Categories",
+        "type": "text",
+        "values": [{
+            "id": "MLA1953",
+            "name": "Otras categorías",
+            "path_from_root": [{
+                "id": "MLA1953",
+                "name": "Otras categorías"
+            }]
+        }]
+    }],
+    "available_filters": [{
+        "id": "category",
+        "name": "Categories",
+        "type": "text",
+        "values": [{
+            "id": "MLA105383",
+            "name": "Útiles Escolares",
+            "results": 53458
+        }, {
+            "id": "MLA1740",
+            "name": "Esoterismo",
+            "results": 4272
+        }, {
+            "id": "MLA10934",
+            "name": "Artículos de Mercería",
+            "results": 3206
+        }, {
+            "id": "MLA3530",
+            "name": "Otros",
+            "results": 41224
+        }]
+    }, {
+        "id": "state",
+        "name": "Location",
+        "type": "text",
+        "values": [{
+            "id": "TUxBUENBUGw3M2E1",
+            "name": "Capital Federal",
+            "results": 66438
+        }, {
+            "id": "TUxBUEdSQWU4ZDkz",
+            "name": "Bs.As. G.B.A. Norte",
+            "results": 10740
+        }, {
+            "id": "TUxBUEdSQXJlMDNm",
+            "name": "Bs.As. G.B.A. Sur",
+            "results": 8840
+        }, {
+            "id": "TUxBUEdSQWVmNTVm",
+            "name": "Bs.As. G.B.A. Oeste",
+            "results": 8564
+        }, {
+            "id": "TUxBUFpPTmFpbnRl",
+            "name": "Buenos Aires Interior",
+            "results": 2996
+        }, {
+            "id": "TUxBUFNBTmU5Nzk2",
+            "name": "Santa Fe",
+            "results": 1172
+        }, {
+            "id": "TUxBUENPU2ExMmFkMw",
+            "name": "Bs.As. Costa Atlántica",
+            "results": 1000
+        }, {
+            "id": "TUxBUENPUmFkZGIw",
+            "name": "Córdoba",
+            "results": 790
+        }, {
+            "id": "TUxBUE1FTmE5OWQ4",
+            "name": "Mendoza",
+            "results": 256
+        }, {
+            "id": "TUxBUExBWmE1OWMy",
+            "name": "La Pampa",
+            "results": 130
+        }, {
+            "id": "TUxBUFRVQ244NmM3",
+            "name": "Tucumán",
+            "results": 102
+        }, {
+            "id": "TUxBUFLNT29iZmZm",
+            "name": "Río Negro",
+            "results": 100
+        }, {
+            "id": "TUxBUEVOVHMzNTdm",
+            "name": "Entre Ríos",
+            "results": 94
+        }, {
+            "id": "TUxBUFNBTGFjMTJi",
+            "name": "Salta",
+            "results": 70
+        }, {
+            "id": "TUxBUENPUnM5MjI0",
+            "name": "Corrientes",
+            "results": 64
+        }, {
+            "id": "TUxBUENIVXQxNDM1MQ",
+            "name": "Chubut",
+            "results": 52
+        }, {
+            "id": "TUxBUE5FVW4xMzMzNQ",
+            "name": "Neuquén",
+            "results": 46
+        }, {
+            "id": "TUxBUEpVSnk3YmUz",
+            "name": "Jujuy",
+            "results": 42
+        }, {
+            "id": "TUxBUE1JU3MzNjIx",
+            "name": "Misiones",
+            "results": 40
+        }, {
+            "id": "TUxBUFNBTno3ZmY5",
+            "name": "Santa Cruz",
+            "results": 38
+        }, {
+            "id": "TUxBUFNBTm9lOTlk",
+            "name": "Santiago del Estero",
+            "results": 34
+        }, {
+            "id": "TUxBUENIQW8xMTNhOA",
+            "name": "Chaco",
+            "results": 32
+        }, {
+            "id": "TUxBUFNBTnM0ZTcz",
+            "name": "San Luis",
+            "results": 26
+        }, {
+            "id": "TUxBUFNBTm5lYjU4",
+            "name": "San Juan",
+            "results": 24
+        }, {
+            "id": "TUxBUExBWmEyNzY0",
+            "name": "La Rioja",
+            "results": 20
+        }, {
+            "id": "TUxBUENBVGFiY2Fm",
+            "name": "Catamarca",
+            "results": 18
+        }, {
+            "id": "TUxBUEZPUmE1OTk5",
+            "name": "Formosa",
+            "results": 14
+        }, {
+            "id": "TUxBUFRJRVoxM2M5YQ",
+            "name": "Tierra del Fuego",
+            "results": 2
+        }]
+    }, {
+        "id": "price",
+        "name": "Price range",
+        "type": "range",
+        "values": [{
+            "id": "*-50.0",
+            "name": "Up to $50",
+            "results": 25987
+        }, {
+            "id": "50.0-100.0",
+            "name": "$50 to $100",
+            "results": 30867
+        }, {
+            "id": "100.0-*",
+            "name": "More than $100",
+            "results": 45307
+        }]
+    }, {
+        "id": "accepts_mercadopago",
+        "name": "MercadoPago filter",
+        "type": "boolean",
+        "values": [{
+            "id": "yes",
+            "name": "With MercadoPago",
+            "results": 99428
+        }]
+    }, {
+        "id": "installments",
+        "name": "Installments filter",
+        "type": "boolean",
+        "values": [{
+            "id": "yes",
+            "name": "Installments",
+            "results": 97750
+        }]
+    }, {
+        "id": "condition",
+        "name": "Condition filter",
+        "type": "text",
+        "values": [{
+            "id": "new",
+            "name": "New",
+            "results": 52184
+        }, {
+            "id": "used",
+            "name": "Used",
+            "results": 48280
+        }]
+    }, {
+        "id": "shipping",
+        "name": "Shipping",
+        "type": "text",
+        "values": [{
+            "id": "mercadoenvios",
+            "name": "MercadoEnvíos",
+            "results": 18680
+        }, {
+            "id": "free",
+            "name": "Free shipping",
+            "results": 84
+        }, {
+            "id": "sameday",
+            "name": "Moto en el día",
+            "results": 62
+        }]
+    }, {
+        "id": "power_seller",
+        "name": "Seller quality filter",
+        "type": "boolean",
+        "values": [{
+            "id": "yes",
+            "name": "Best sellers",
+            "results": 1116
+        }]
+    }, {
+        "id": "buying_mode",
+        "name": "Buying mode filter",
+        "type": "text",
+        "values": [{
+            "id": "buy_it_now",
+            "name": "Buy it now",
+            "results": 101104
+        }, {
+            "id": "auction",
+            "name": "Auction",
+            "results": 1056
+        }]
+    }, {
+        "id": "since",
+        "name": "Auction start date filter",
+        "type": "text",
+        "values": [{
+            "id": "today",
+            "name": "Starting today",
+            "results": 3068
+        }]
+    }, {
+        "id": "until",
+        "name": "Auction stop filter",
+        "type": "text",
+        "values": [{
+            "id": "today",
+            "name": "Ending today",
+            "results": 3410
+        }]
+    }, {
+        "id": "has_video",
+        "name": "Video publications filter",
+        "type": "boolean",
+        "values": [{
+            "id": "yes",
+            "name": "Publications with video",
+            "results": 2992
+        }]
+    }, {
+        "id": "has_pictures",
+        "name": "Items with images filter",
+        "type": "boolean",
+        "values": [{
+            "id": "yes",
+            "name": "With pictures",
+            "results": 99146
+        }]
+    }, {
+        "id": "adult_content",
+        "name": "Adult content filter",
+        "type": "boolean",
+        "values": [{
+            "id": "yes",
+            "name": "Adult content",
+            "results": 121040
+        }]
+    }]
+}
